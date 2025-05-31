@@ -40,7 +40,7 @@ By the end of this lab, you will be able to:
 
 ### **Step 3: Add a `for` Loop**
 
-Paste the following into `loops_lab.py`:
+Open the file in Codespaces`loops_lab.py`:
 
 ```python
 # For loop example: Iterating through a list of fruits
